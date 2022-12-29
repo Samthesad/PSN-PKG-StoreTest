@@ -4,7 +4,7 @@
 		"type": "game",
 		"name": "SNES STATION",
 		"icon": "https://i.imgur.com/tRlZkN7.png",
-		"links": ["http://localhost:80/pkgs/SNES_STATION.pkg"],
+		"links": ["http://bepkg.imsam.repl.co/SNES_STATION.pkg"],
 		"categories": ["Emulator"]
 	},
 	{
